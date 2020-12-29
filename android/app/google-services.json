@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "124519916597",
+    "project_id": "eatfastrepeat-4967c",
+    "storage_bucket": "eatfastrepeat-4967c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124519916597:android:08e57d7361f964b0debd7c",
+        "android_client_info": {
+          "package_name": "com.icodelife.eatfastrepeat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124519916597-72lqi6i6po4p5o71s0frrb0dhkd5fvma.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.icodelife.eatfastrepeat",
+            "certificate_hash": "d16e6c1e21c786773726e4d38e03d760e83a677d"
+          }
+        },
+        {
+          "client_id": "124519916597-cjoul56m8l84r17rsij1a1u25in523hn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.icodelife.eatfastrepeat",
+            "certificate_hash": "dbbfc5b401ae15bd633936c6b93f15c678e316ec"
+          }
+        },
+        {
+          "client_id": "124519916597-jum10ctjuk8umbk0r4kfgfmbq3sd5q21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKIPezYx2YjoaNaN81ln5tsZPCXLxrEVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124519916597-jum10ctjuk8umbk0r4kfgfmbq3sd5q21.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
